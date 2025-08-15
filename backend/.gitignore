@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.sqlite3
+.DS_Store
