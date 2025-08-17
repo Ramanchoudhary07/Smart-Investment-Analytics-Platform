@@ -21,7 +21,7 @@ A full-stack web application providing intelligent investment portfolio manageme
 
 ## Live Demo
 
-> _(Optional: Add a link if deployed)_
+> _(NOT deployed yet)_
 
 ---
 
