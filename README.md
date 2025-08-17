@@ -86,13 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-
-- Your Name - your.email@example.com
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
----
-
 ## Acknowledgments
 
 - Thanks to [Alpha Vantage](https://www.alphavantage.co) for providing free market data APIs.
